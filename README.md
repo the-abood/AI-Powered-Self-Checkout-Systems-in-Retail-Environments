@@ -1,4 +1,4 @@
-# 🛒 AI-Powered Self-Checkout System for Retail
+# 🛒 AI-Powered Self-Checkout System for Retail Environments
 
 ## 📌 Overview
 
